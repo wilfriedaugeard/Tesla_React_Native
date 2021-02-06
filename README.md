@@ -4,13 +4,13 @@
 
 This is a simple project in order to discover React Native. You can see a page presenting the different Tesla cars with a scroll animation. As presented below. 
 
-[![app image](https://github.com/wilfriedaugeard/Tesla_React_Native/assets/mockup.jpg))
+[![app image](https://github.com/wilfriedaugeard/Tesla_React_Native/blob/main/assets/mockup.jpg)
 
 ### Scan to open
 
 With an Android phone, you can scan this QR code with your Expo mobile app to load this project immediately.
 
-[![app image](https://github.com/wilfriedaugeard/Tesla_React_Native/assets/qr_code.jpg))
+[![app image](https://github.com/wilfriedaugeard/Tesla_React_Native/blob/main/assets/qr_code.png)
 
 
 
