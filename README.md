@@ -1,6 +1,8 @@
 # Tesla_React_Native
 
 [![GitHub license](https://img.shields.io/github/license/wilfriedaugeard/Tesla_React_Native)](https://github.com/wilfriedaugeard/Tesla_React_Native/blob/master/LICENSE)
+![Contributors](https://badgen.net/github/contributors/wilfriedaugeard/Tesla_React_Native)
+![GitHub last commit](https://img.shields.io/github/last-commit/wilfriedaugeard/Tesla_React_Native)
 
 This is a simple project in order to discover React Native. You can see a page presenting the different Tesla cars with a scroll animation. The buttons are not functional, they only display a pop-up with a message corresponding to the button touched. As presented below. 
 
